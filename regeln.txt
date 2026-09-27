@@ -24,3 +24,5 @@
 -- Spawnkilling ist streng verboten.  
 -- Team-Anweisungen befolgen.  
 -- Verstöße können Verwarnungen, Time-outs, Kicks oder Banns bedeuten.  
+
+Test Änderung
